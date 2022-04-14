@@ -124,6 +124,7 @@ def perform(filename):
 
 
 def main():
+    perform('apple.jpg')
     perform('mariposa-monarca-1.jpg')
 
 
